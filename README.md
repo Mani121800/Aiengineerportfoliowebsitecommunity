@@ -1,7 +1,7 @@
 
   # AI Engineer Portfolio Website (Community)
 
-  This is a code bundle for AI Engineer Portfolio Website (Community). The original project is available at https://www.figma.com/design/9jBpyQqH8GyXHXoiqiTszv/AI-Engineer-Portfolio-Website--Community-.
+  This is a code bundle for AI Engineer Portfolio Website (Community).
 
   ## Running the code
 
